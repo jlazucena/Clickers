@@ -1,3 +1,2 @@
-# Clickers
-new
-Angelo Clement Yap
+# Angelo Clement Yap
+# JL Azucena
